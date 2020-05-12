@@ -1,4 +1,7 @@
-#!/bin/bash
+#include "print.h"
 
-echo 'Hello word'
+int main () {
+	print();
+	return 0;
+}
 
